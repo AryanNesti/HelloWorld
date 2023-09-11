@@ -9,6 +9,7 @@
     <TextView
         android:id="@+id/introTextView"
         android:layout_width="match_parent"
+        android:textColor="@color/design_default_color_primary_variant"
         android:layout_height="wrap_content"
         android:text="@string/Aryan_intro"
         app:layout_constraintEnd_toEndOf="parent"
